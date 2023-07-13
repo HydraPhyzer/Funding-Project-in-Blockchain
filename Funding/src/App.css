@@ -1,0 +1,26 @@
+.Same {
+  background-color:#34495e;
+  padding: 10px;
+  color: white;
+  width: 100%;
+  border-radius: 5px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.BTN{
+  margin-right: 5px;
+  padding: 10px;
+  border:2px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.A{
+  background-color: #4CAF50;
+  color: white
+}
+.B,.C{
+  background-color: #e74c3c;
+  color: white;
+}
